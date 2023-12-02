@@ -2,7 +2,7 @@
 <h3 align="center">🇵🇰 Heads up, world! Mobile maestro from Karachi here, ready to code across all realms. 📱 Native, hybrid, web - you name it, I tame it. Backend's my secret weapon, crafting the logic that makes your apps sing. 🪄 But I'm not a one-trick pony. Learning's my fuel, and data structures? My kryptonite. 🧠 Algorithms are my playground, where I build bridges between efficiency and elegance. 🌉 Beyond the code, I'm a Pakistani tech evangelist, always eager to share and mentor. Workshops, talks, you name it - I'm there to spread the coding love. 💖 So, ready to push the boundaries of what's possible? Let's join forces, code like warriors, and leave our mark on the digital world. Together, we can build the future, one line of code at a time. 🚀 (217/220)</h3>
 
 
- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="coding" width="400" align="right">
+ <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" align="right">
 
 
 
