@@ -1,3 +1,4 @@
+![logo](https://github.com/MrCzee/MrCzee/blob/main/myGitBanner.jpeg)
 <h1 align="center">Hi 👋, I'm Imran Khan Lashari</h1>
 <h3 align="center">🇵🇰 Heads up, world! Mobile maestro from Karachi here, ready to code across all realms. 📱 Native, hybrid, web - you name it, I tame it. Backend's my secret weapon, crafting the logic that makes your apps sing. 🪄 But I'm not a one-trick pony. Learning's my fuel, and data structures? My kryptonite. 🧠 Algorithms are my playground, where I build bridges between efficiency and elegance. 🌉 Beyond the code, I'm a Pakistani tech evangelist, always eager to share and mentor. Workshops, talks, you name it - I'm there to spread the coding love. 💖 So, ready to push the boundaries of what's possible? Let's join forces, code like warriors, and leave our mark on the digital world. Together, we can build the future, one line of code at a time. 🚀 (217/220)</h3>
 
